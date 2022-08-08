@@ -1,0 +1,15 @@
+Target dependency graph (5 targets)
+ZERO_CHECK in pa7
+src in pa7, depends on:
+ZERO_CHECK in pa7 (explicit)
+main in pa7, depends on:
+src in pa7 (explicit)
+ZERO_CHECK in pa7 (explicit)
+tests in pa7, depends on:
+src in pa7 (explicit)
+ZERO_CHECK in pa7 (explicit)
+ALL_BUILD in pa7, depends on:
+main in pa7 (explicit)
+src in pa7 (explicit)
+tests in pa7 (explicit)
+ZERO_CHECK in pa7 (explicit)
